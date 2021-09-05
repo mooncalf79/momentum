@@ -1,0 +1,12 @@
+.hidden{
+    display: none;
+}
+
+.background{
+    margin: 0;
+    position: absoulte;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
